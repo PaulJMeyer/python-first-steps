@@ -27,8 +27,8 @@ greet("Paula")
 
 square(3)
 
-rate(85)
-rate(55)
+print(rate(85))
+print(rate(55))
 
 schueler = [{"name": "Anna", "punkte": 85}, {"name": "Ben", "punkte": 55}, {"name": "Clara", "punkte": 92}]
 grade(schueler)
