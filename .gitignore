@@ -13,3 +13,12 @@ __pycache__/
 
 # OS files
 .DS_Store
+
+# big files
+*.zip
+
+#lung cancer project
+data_science/lung_cancer_analysis/data/
+
+#plague project
+data_science/plague_analysis/data/
