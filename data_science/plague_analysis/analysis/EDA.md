@@ -13,9 +13,8 @@
     - Ökon. impact: größtent. unter 1e12 USD, extrem mit 1,5e13 USD
 
     ## 3. Key Observations
-    - sehr starke Streuung bei Todesfällen
-    - wenige extreme Ausreißer dominieren
-
+    - sehr starke Streuung bei Todesfällen und Erkrankungen
+    
     ## 4. Hypothesen
     - längere Pandemien → mehr Todesfälle?
     - länger zurückliegende Pandemien = höhere Sterberate?
